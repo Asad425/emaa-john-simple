@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    
+}
+.product img{
+    margin-right: 20px;
+}
+.product h4{
+    color: blue;
+    font-weight: 400;
+}
+.order-button{
+    background-color: goldenrod;
+    height: 30px;
+    width: 120px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
