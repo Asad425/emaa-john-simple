@@ -4,9 +4,7 @@ import Header from './Components/Header/Header';
 import Shop from './Components/Shop/Shop';
 import {
   BrowserRouter as Router,
-  Routes,
   Route,
-  Link,
   Switch,
 } from "react-router-dom";
 
